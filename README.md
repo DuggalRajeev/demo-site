@@ -5,7 +5,7 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
-## Installation
+## Installation 
 
 ```sh
 npm i
